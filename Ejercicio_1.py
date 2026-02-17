@@ -31,4 +31,5 @@ elif edad >= 18:
     print("puedes obtener una licencia B1 en adelante")
 else: 
     print("No puedes obtener una licencia haata cumplir la mayoria de edad")
+    
    
