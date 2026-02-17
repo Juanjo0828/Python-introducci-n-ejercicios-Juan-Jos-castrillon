@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_05.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Sistema básico de cajero automático
+#-----------------------------------------
+
 """
 Título del Ejercicio:
 

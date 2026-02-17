@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_10.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Conversor de monedas
+#-----------------------------------------
+
 """
 Título del Ejercicio:
 

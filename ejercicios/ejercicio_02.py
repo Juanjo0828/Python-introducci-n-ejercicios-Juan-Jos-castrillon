@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_02.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Clasificador de calificaciones escolares
+#-----------------------------------------
+
 """
 1.Título del Ejercicio:
 Clasificador de calificaciones escolares

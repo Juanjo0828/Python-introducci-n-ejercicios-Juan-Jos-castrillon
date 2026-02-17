@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_09.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Sistema de menú de restaurante
+#-----------------------------------------
+
 """
 Título del Ejercicio:
 

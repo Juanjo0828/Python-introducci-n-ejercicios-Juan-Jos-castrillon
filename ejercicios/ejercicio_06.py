@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_06.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Simulador de semáforo
+#-----------------------------------------
+
 """
 Título del Ejercicio:
 

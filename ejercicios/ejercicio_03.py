@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_03.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Sistema básico de manejo de usuarios para una compraventa
+#-----------------------------------------
+
 """
 Título del Ejercicio:
 

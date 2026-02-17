@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_04.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Sistema de descuentos en una tienda
+#-----------------------------------------
+
 """
 Título del Ejercicio:
 

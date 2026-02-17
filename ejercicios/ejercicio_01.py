@@ -1,4 +1,11 @@
 
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_01.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Manejo de edades para licencias de conducción
+#-----------------------------------------
+
 """
 Manejo de edades para licencias de conducción
 Descripción del Problema:

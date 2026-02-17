@@ -1,3 +1,10 @@
+#-----------------------------------------
+# Nombre del Archivo: ejercicio_08.py
+# Autor: Juan José Castrillón
+# Fecha: 2026-02-17
+# Descripción: Clasificación de temperatura
+#-----------------------------------------
+
 """
 Descripción del Problema:
 
@@ -25,3 +32,19 @@ Ingrese la temperatura: 18
 Ejemplo de salida
 Clima templado
 """
+
+print("Clasificador de temperatura")
+
+temperatura = float(input("Ingrese la temperatura: "))
+
+if temperatura < -100 or temperatura > 100:
+    print("Error: temperatura inválida")
+
+elif temperatura < 10:
+    print("Clima frío")
+
+elif temperatura <= 25:
+    print("Clima templado")
+
+else:
+    print("Clima caluroso")
